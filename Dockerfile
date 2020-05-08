@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.18.0
+FROM gcr.azk8s.cn/google-containers/kube-proxy:v1.17.3
 MAINTAINER "250428568@qq.com"
