@@ -1,2 +1,2 @@
-FROM alpine:latest
+FROM k8s.gcr.io/kube-apiserver:v1.18.0
 MAINTAINER "250428568@qq.com"
